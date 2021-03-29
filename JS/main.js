@@ -45,7 +45,7 @@ function validar (){
     }
 
     if(confirmpassword != password){
-        alert('Favor confirmar a senha a cima')
+        alert('Favor repita a senha a cima')
         return false;
     }
 
